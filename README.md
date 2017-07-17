@@ -19,8 +19,8 @@ Python preferably 2.7.9
 Follow the steps to download the movie trailer project on your system
 
 ```
-1. Visit 
-2. Download
+1. Visit https://github.com/priyankasingh2210/ud036_StarterCode
+2. Download the zip
 3. Open the downloaded folder
 4. Open your command prompt and change the directory to the directory at step 3 basically where you have downloaded the source code
 5. Type python fav_movies.py
