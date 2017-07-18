@@ -2,8 +2,11 @@ import webbrowser
 
 
 class Movie():
-    # title,storyline,poster image and movie trailer url as constructor params
-    def __init__(self, movie_title, movie_storyline, movie_poster_image, movie_trailer_url):
+    """
+    title,storyline,poster image and movie trailer url as constructor params
+    """
+    def __init__(self, movie_title, movie_storyline,
+                 movie_poster_image, movie_trailer_url):
         # instance variables
         self.movie_title = movie_title
         self.movie_storyline = movie_storyline
